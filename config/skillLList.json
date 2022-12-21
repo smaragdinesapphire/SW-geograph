@@ -1,0 +1,9 @@
+[
+  {
+    "id": 0,
+    "name": "skill1",
+    "cost": { "ground": { "min": 1, "max": 4 } },
+    "description": "ground power ground power ground power",
+    "shortDesription": "ground power"
+  }
+]

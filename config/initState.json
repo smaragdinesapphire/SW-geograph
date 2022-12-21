@@ -1,0 +1,12 @@
+{
+  "points": {
+    "sky": 0,
+    "ground": 0,
+    "human": 0
+  },
+  "charactorList": [],
+  "includesCharactorList": [],
+  "geograph": false,
+  "onlineSkillList": [],
+  "skillEffectList": []
+}
